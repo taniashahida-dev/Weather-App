@@ -2,7 +2,7 @@ import { createBrowserRouter} from "react-router"
 import Mainlayout from "./layouts/Mainlayout"
 
 import { RouterProvider } from "react-router/dom"
-import Home from "./routes/Home"
+import Home from "./routes/home"
 
 
 
